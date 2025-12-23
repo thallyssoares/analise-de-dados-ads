@@ -1,4 +1,3 @@
-```
 # Google Ads Elasticity & Marginal ROI Analysis 📈
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -124,5 +123,3 @@ I specialize in bridging the gap between Marketing Strategy and Data Science.
 ---
 
 *If you found this analysis useful, feel free to star ⭐ this repository!*
-
-´´´
