@@ -88,7 +88,7 @@ The dataset used in this repository (`dummy_google_ads_data.csv`) has been stric
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/thallyssoares/analise-de-dados-ads.git](https://github.com/thallyssoares/analise-de-dados-ads.git)
+git clone https://github.com/thallyssoares/analise-de-dados-ads.git
 
 ```
 
